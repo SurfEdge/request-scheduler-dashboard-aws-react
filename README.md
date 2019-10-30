@@ -1,3 +1,5 @@
+# Under Development!!!
+
 # ⏰ Request Scheduler Dashboard  🚀
 A dashboard to manage scheduled requests using AWS services and React.
 
@@ -26,5 +28,9 @@ This project will have two parts,
 - AWS CloudWatch
 
 To be updated later!
+
+## Dependencies
+- Scheduled lambda project boilerplate - https://github.com/SurfEdge/serverless-scheduled-boilerplate
+More information https://docs.aws.amazon.com/lambda/latest/dg/tutorial-scheduled-events-schedule-expressions.html
 
 💡Inspired by the previous project on PHP https://github.com/SurfEdge/ideamart-isyd-cron-job
