@@ -33,4 +33,6 @@ To be updated later!
 - Scheduled lambda project boilerplate - https://github.com/SurfEdge/serverless-scheduled-boilerplate
 More information https://docs.aws.amazon.com/lambda/latest/dg/tutorial-scheduled-events-schedule-expressions.html
 
+- Material React Template - https://github.com/creativetimofficial/material-dashboard-react
+
 💡Inspired by the previous project on PHP https://github.com/SurfEdge/ideamart-isyd-cron-job
